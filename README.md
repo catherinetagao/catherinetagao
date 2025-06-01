@@ -1,7 +1,7 @@
----
+
 <h1 align="center">Hi👋, I am Cath</h1>
-<h3 align="center">A passionate Web Developer </h3>
----
+<h1 align="center">A passionate Web Developer </h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
