@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cath</h1>
-<h3 align="center">A passionate in Web Developer </h3>
+<h3 align="center">A passionate Web Developer </h3>
 
 <!--
 **catherinetagao/catherinetagao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning figma
-- 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Web Development
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 - 🌱 I’m currently learning **Figma and Web Development**
+- 🤔 I’m looking for help with **Web Development**
 
 <!--
 ---
