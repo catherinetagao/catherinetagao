@@ -1,13 +1,7 @@
+---
 <h1 align="center">Hi👋, I am Cath</h1>
 <h3 align="center">A passionate Web Developer </h3>
 ---
-
-<!--
-**catherinetagao/catherinetagao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
