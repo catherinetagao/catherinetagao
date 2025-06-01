@@ -33,6 +33,15 @@
   <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> </a>
+  <a href="https://www.canva.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
+  </a>
+  <a href="https://chat.openai.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/> 
+  </a>
 </p>
 
 <!--
