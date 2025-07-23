@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋, I am Cath</h1>
-<h1 align="center">A Web Developer </h1>
+<h1 align="center">A Fresh Graduate Major in Web and Mobile Application Development </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
