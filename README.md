@@ -29,9 +29,6 @@
   <a href="https://www.canva.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
-  </a>
   <a href="https://chat.openai.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/> 
   </a>
